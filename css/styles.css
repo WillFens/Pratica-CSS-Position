@@ -1,0 +1,52 @@
+    .azul {
+        background-color: blue;
+        width: 100vh;
+        height: 100vh;
+          
+          }
+          
+          .vermelho {
+              background-color: red;
+              width: 90%;
+             height: 90%;
+          
+            }
+          .preto {
+              background-color: black;
+              width: 80%;
+              height: 80%;
+          }
+
+          .verde {
+              background-color: green;
+              width: 70%;
+              height: 70%;
+          }
+
+          .amarelo {
+              background-color: yellow;
+              width: 60%;
+              height: 60%;
+ 
+          }
+          
+          .div {
+              background-color: black;
+              width: 100px;
+              height: 100px;
+            }
+
+          
+          .um {
+              position: absolute;
+              top: 0;
+              left: 0;
+
+           }
+           .dois { 
+               position: absolute;
+               top
+
+           }
+
+
